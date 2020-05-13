@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkboxUshakov</string>
+    <string name="input_money">Ввод денег</string>
+    <string name="paymentInfo">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="bankCard">С банковской карты</string>
+    <string name="mobilePhone">С мобильного телефона</string>
+    <string name="cashaddress">Наличными по адресу</string>
+</resources>
